@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akshay261221
-- 👀 I’m interested in Web deveopment
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning html,css,javascript,bootstap,php and Frameworks
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
