@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akshay261221
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning html,css,javascript,bootstap,php and Frameworks
+- 👀 I’m interested in Blockchain & Web development
+- 🌱 I’m currently Learning Frontend Technology & Blockchain Technology😊.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 -Email:-gajjarakshay4554@gmail.com
