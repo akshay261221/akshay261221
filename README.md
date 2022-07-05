@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Frontend Technology & Blockchain Technology.**
 
-- 📝 I regularly write articles on [https://axxugaming.blogspot.com/2021/05/blog-post.html](https://axxugaming.blogspot.com/2021/05/blog-post.html)
+- 📝 I regularly write articles on [https://medium.com/@gajjarakshay4554)
 
-- 💬 Ask me about **NFTs,Bitcoin Mining,HTML,CSS,JAVASCRIPT.**
+- 💬 Ask me about **Blockchain,Smart-Contract,Defi,Dao,Ethereum,NFTs,EVM,Bitcoin Mining,C++,Html,Css,Javascript,Solidity,Node.js,reactJs,Hardhat.**
 
 - 📫 How to reach me **gajjarakshay4554@gmail.com**
 
