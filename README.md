@@ -6,7 +6,9 @@
 
 - 🌱 I’m currently learning **Frontend Technology & Blockchain Technology.**
 
-- 📝 I regularly write articles on [https://medium.com/@gajjarakshay4554)
+- 👨‍💻 All of my projects are available at [https://akshayportfolio-49939.firebaseapp.com/](https://akshayportfolio-49939.firebaseapp.com/)
+
+- 📝 I regularly write articles on [https://medium.com/@gajjarakshay4554](https://medium.com/@gajjarakshay4554)
 
 - 💬 Ask me about **Blockchain,Web3.0,Smart-Contract,Defi,Dao,Ethereum,NFTs,EVM,Solana Mining,Bitcoin Mining,C++,Html,Css,Javascript,Solidity.**
 
