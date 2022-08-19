@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@gajjarakshay4554](https://medium.com/@gajjarakshay4554)
 
-- 💬 Ask me about **Blockchain,Web3.0,Smart-Contract,Defi,Dao,Ethereum,NFTs,EVM,Solana Mining,Bitcoin Mining,C++,Html,Css,Javascript,Solidity.**
+- 💬 Ask me about **Blockchain,Web3.0,Smart-Contract,Ethereum,NFTs,EVM,Solana Mining,Bitcoin Mining,C++,Html,Css,Javascript,Solidity.**
 
 - 📫 How to reach me **gajjarakshay4554@gmail.com**
 
