@@ -1,14 +1,14 @@
 
 
-<h1 align="center">Hi 👋, I'm Gajjar Akshay</h1>
-<h3 align="center">A passionate Blockchain developer from Gujarat</h3>
+<h1 align="center">Hi 👋, I'm Gajjar Akshay, Currently a Software Engineering Intern at Viitorcloud</h1>
+<h3 align="center">A passionate Backend development from Gujarat/h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay261221&label=Profile%20views&color=0e75b6&style=flat" alt="akshay261221" /> </p>
 
-- ⚒️ I’m currently Working on **Decentralized Anonymous E-voting System**
+- ⚒️ I’m currently Working on **Python and Backend Technologies**
 
-- 🌱 I’m currently learning **Frontend Technology & Blockchain Technology.**
+- 🌱 I’m currently learning **Python Programming and Falsk or FastAPI Framworks.**
 
 - 👨‍💻 All of my projects are available at [https://akshayportfolio-49939.firebaseapp.com/](https://akshayportfolio-49939.firebaseapp.com/)
 
@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@gajjarakshay4554](https://medium.com/@gajjarakshay4554)
 
-- 💬 Ask me about **Blockchain,Web3.0,Smart-Contract,Ethereum,NFTs,EVM,Solana Mining,Bitcoin Mining,C++,Html,Css,Javascript,Solidity.**
+- 💬 Ask me about **Python,Falsk,FastAPI,Blockchain,Web3.0,Smart-Contract,Ethereum,NFTs,EVM,Solana Mining,Bitcoin Mining,C++,Html,Css,Javascript,Solidity.**
 
 - 📫 How to reach me **gajjarakshay4554@gmail.com**
 
