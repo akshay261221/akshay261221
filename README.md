@@ -8,7 +8,7 @@
 
 - ⚒️ I’m currently Working on **Python and Backend Technologies**
 
-- 🌱 I’m currently learning **Python Programming and Falsk or FastAPI Frameworks.**
+- 🌱 I’m currently learning **Python Programming and Flask or FastAPI Frameworks.**
 
 - 👨‍💻 All of my projects are available at [https://akshayportfolio-49939.firebaseapp.com/](https://akshayportfolio-49939.firebaseapp.com/)
 
