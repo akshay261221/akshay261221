@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Gajjar Akshay, Currently a Software Developer at Viitorcloud </h1>
+<h1 align="center">Hi 👋, I'm Gajjar Akshay, Experienced Python Developer </h1>
 <h3 align="center">Completed My Bachelors in Computer Engineering with an Aggregate of 8.78 CGPA</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
