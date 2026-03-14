@@ -1,12 +1,12 @@
 
 
-<h1 align="center">Hi 👋, I'm Gajjar Akshay, Experienced Python Developer </h1>
-<h3 align="center">Completed My Bachelors in Computer Engineering with an Aggregate of 8.78 CGPA</h3>
+<h1 align="center">Hi 👋, I'm Akshaykumar Gajjar, Experienced Python Developer </h1>
+<h3 align="center">Learner</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay261221&label=Profile%20views&color=0e75b6&style=flat" alt="akshay261221" /> </p>
 
-- ⚒️ I’m currently Working on **Python and Backend Technologies**
+- ⚒️ I’m currently Working on **Datascience Enthusiastic**
 
 - 🌱 I’m currently learning **Python Programming and Flask or FastAPI Frameworks.**
 
@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@gajjarakshay4554](https://medium.com/@gajjarakshay4554)
 
-- 💬 Ask me about **Python,Falsk,FastAPI,Blockchain,Web3.0,Smart-Contract,Ethereum,NFTs,EVM,Solana Mining,Bitcoin Mining,C++,Html,Css,Javascript,Solidity.**
+- 💬 Ask me about **Python,Falsk,FastAPI,Blockchain,Web3.0.**
 
 - 📫 How to reach me **gajjarakshay4554@gmail.com**
 
