@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay261221&label=Profile%20views&color=0e75b6&style=flat" alt="akshay261221" /> </p>
 
-- ⚒️ I’m currently Working on **Datascience Enthusiastic**
+- ⚒️ I’m **Datascience Enthusiastic**
 
 - 🌱 I’m currently learning **Python Programming and Flask or FastAPI Frameworks.**
 
