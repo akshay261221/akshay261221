@@ -12,8 +12,6 @@
 
 - 🏪 Visit My Online Shop Here:-https://gajjarakshay4554.myinstamojo.com/
 
-- 🧟‍♀️ Visit My NFTs Collection Here:-https://opensea.io/collection/untitled-collection-232404071
-
 - 📝 I regularly write articles on [https://medium.com/@gajjarakshay4554](https://medium.com/@gajjarakshay4554)
 
 - 💬 Ask me about **Python,Falsk,FastAPI,Blockchain,Web3.0.**
