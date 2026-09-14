@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Python Programming and Flask or FastAPI Frameworks.**
 
-- 👨‍💻 All of my projects are available at [https://akshayportfolio-49939.firebaseapp.com/](https://akshayportfolio-49939.firebaseapp.com/)
-
 - 🏪 Visit My Online Shop Here:-https://gajjarakshay4554.myinstamojo.com/
 
 - 🧟‍♀️ Visit My NFTs Collection Here:-https://opensea.io/collection/untitled-collection-232404071
