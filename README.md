@@ -1,22 +1,26 @@
 
 
-<h1 align="center">Hi 👋, I'm Akshaykumar Gajjar, Experienced Python Developer </h1>
+<h1 align="center">Hi 👋, I'm Akshaykumar Gajjar, a Master's Student in Industrial Data Science at Montanuniversität Leoben </h1>
 <h3 align="center">Learner</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay261221&label=Profile%20views&color=0e75b6&style=flat" alt="akshay261221" /> </p>
 
-- ⚒️ I’m **Datascience Enthusiastic**
+- ⚒️ I’m **Datascience & Machinelearning Enthusiastic**
 
-- 🌱 I’m currently learning **Python Programming and Flask or FastAPI Frameworks.**
+- 🌱 I’m currently learning **Machinelearning.**
+  
+- 💎 1:1 Consultation with me:- https://mentorsheep.io/mentors/akshaykumar_gajjar
+
+- ♾️ Everything here:- https://linktr.ee/Akshay._.Austria?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAcGRvZgJzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAacktcK3O-ak9ScPj9OFzIWZT90by3tDPxWOE2b9Tj_c61v52Ub2L167d6zW5g_aem_-UtqxBbRe1J0aao41y-eAA
 
 - 🏪 Visit My Online Shop Here:-https://gajjarakshay4554.myinstamojo.com/
 
 - 📝 I regularly write articles on [https://medium.com/@gajjarakshay4554](https://medium.com/@gajjarakshay4554)
 
-- 💬 Ask me about **Python,Falsk,FastAPI,Blockchain,Web3.0.**
+- 💬 Ask me about ** Data Science, Machine Learning, Python, Flask,  FastAPI, Blockchain, Web3.0.**
 
-- 📫 How to reach me **gajjarakshay4554@gmail.com**
+- 📫 How to reach me: **gajjarakshay4554@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
