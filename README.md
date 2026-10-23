@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay261221&label=Profile%20views&color=0e75b6&style=flat" alt="akshay261221" /> </p>
 
-- ⚒️ I’m **Datascience & Machinelearning Enthusiastic**
+- ⚒️ I’m **Datascience & Machine learning Enthusiastic**
 
-- 🌱 I’m currently learning **Machinelearning.**
+- 🌱 I’m currently learning **Machine learning.**
   
 - 💎 1:1 Consultation with me:- https://mentorsheep.io/mentors/akshaykumar_gajjar
 
